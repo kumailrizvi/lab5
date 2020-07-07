@@ -1,5 +1,7 @@
 #!/bin/sh
+
 # Lab 5 - comment for it
+# Another one
 # Test values with quotes
 myvar1="$100"
 myvar2='$100'
