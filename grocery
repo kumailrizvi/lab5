@@ -1,6 +1,7 @@
 #!/bin/sh
 # Commented this for lab5
 # Enter a grocery list and
+# COMMENT ONE MORE
 # COMMENT
 # store in a file indicated by $1
 echo To end list, enter \"all\".
